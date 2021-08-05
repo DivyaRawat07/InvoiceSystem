@@ -1,0 +1,18 @@
+{"message":"Server Listening and running on 4000","level":"info","timestamp":"2021-08-04T14:54:02.940Z"}
+{"message":"Server Listening and running on 4000","level":"info","timestamp":"2021-08-04T15:07:18.578Z"}
+{"message":"Server Listening and running on 4000","level":"error","timestamp":"2021-08-04T15:10:13.690Z"}
+{"message":"Server Listening and running on 4000","level":"error","timestamp":"2021-08-04T15:12:06.569Z"}
+{"message":"Server Listening and running on 4000","level":"error","timestamp":"2021-08-04T16:40:00.175Z"}
+{"message":"Server Listening and running on 4000","level":"error","timestamp":"2021-08-04T17:00:27.380Z"}
+{"message":"Server Listening and running on 4000","level":"error","timestamp":"2021-08-04T17:03:44.296Z"}
+{"message":"Server Listening and running on 4000","level":"error","timestamp":"2021-08-04T17:06:41.153Z"}
+{"level":"info","message":"sucess response 200 at getAllInvoice","timestamp":"2021-08-04T17:07:15.806Z"}
+{"level":"info","message":"error response 500 at updateInvoice","timestamp":"2021-08-04T17:07:15.815Z"}
+{"message":"Server Listening and running on 4000","level":"error","timestamp":"2021-08-04T19:25:27.610Z"}
+{"message":"Server Listening and running on 4000","level":"error","timestamp":"2021-08-04T19:51:27.155Z"}
+{"message":"Server Listening and running on 4000","level":"error","timestamp":"2021-08-04T20:18:49.799Z"}
+{"message":"Server Listening and running on 4000","level":"error","timestamp":"2021-08-04T20:22:10.817Z"}
+{"level":"info","message":"sucess response 200 at getAllInvoice","timestamp":"2021-08-04T20:22:16.856Z"}
+{"level":"info","message":"error response 500 at updateInvoice","timestamp":"2021-08-04T20:22:16.870Z"}
+{"message":"Server Listening and running on 4000","level":"error","timestamp":"2021-08-04T20:50:22.460Z"}
+{"message":"Server Listening and running on 4000","level":"error","timestamp":"2021-08-05T04:51:17.618Z"}
